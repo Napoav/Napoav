@@ -1,16 +1,13 @@
-## Hi there 👋
+## I'm Natalia Poveda 👋
 
-<!--
-**Napoav/Napoav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Professional Profile**
 
-Here are some ideas to get you started:
+:mortar_board: **Electronics Engineer**
+:gear: - Circuit Design & Analysis: Analog and digital circuits
+:books: -Embedded Systems: Arduino, PSoC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Key Skills**
+:computer:- Programming Languages: C/C++,JavaScript
+:bulb:- Databases: MySQL 
+:robot: - DevOps & Tools: Git, GitHub (GitHub Actions)
+:memo: - Soft Skills:  Problem-solving, adaptability, collaboration, time management
