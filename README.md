@@ -1,6 +1,6 @@
 ## I'm Natalia Poveda 👋
 
-💼 **Professional Profile**
+## 💼 **Professional Profile**
 
 :mortar_board: **Electronics Engineer**
 
@@ -8,7 +8,8 @@
 
 :books: -Embedded Systems: Arduino, PSoC
 
-🛠️ **Key Skills**
+## 🛠️ **Key Skills**
+
 :computer:- Programming Languages: C/C++,JavaScript
 
 :bulb:- Databases: MySQL 
