@@ -17,3 +17,8 @@
 :robot: - DevOps & Tools: Git, GitHub (GitHub Actions)
 
 :memo: - Soft Skills:  Problem-solving, adaptability, collaboration, time management
+
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
