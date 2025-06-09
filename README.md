@@ -19,6 +19,5 @@
 :memo: - Soft Skills:  Problem-solving, adaptability, collaboration, time management
 
 ### :zap: Actividad reciente
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
